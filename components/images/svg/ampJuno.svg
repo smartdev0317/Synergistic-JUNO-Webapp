@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 264.58 264.58">
+  <defs>
+    <path id="a" fill="#4f7cbb" fill-opacity="1" d="M27.41 8.62c0-1.23-.76-2.22-1.71-2.22s-1.71 1-1.71 2.22v33.72c0 1.23.76 2.22 1.7 2.22h.01c.95 0 1.71-1 1.71-2.22V8.62z"/>
+  </defs>
+  <g transform="translate(0 -32.42)">
+    <ellipse cx="130.54" cy="169.52" fill="#4f7cbb" rx="92.93" ry="90.66"/>
+    <ellipse cx="130.54" cy="167.5" stroke="#4f7cbb" stroke-width="6.84" rx="92.93" ry="90.66"/>
+    <g fill="#4f7cbb" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2" clip-rule="evenodd">
+      <path d="M134.06 135.74c0-1.74-1.32-3.15-2.98-3.15s-2.98 1.4-2.98 3.15v72.83c0 1.74 1.32 3.15 2.96 3.15h.02a3.06 3.06 0 0 0 2.98-3.15v-72.83z"/>
+      <path d="M122 195.76c-1.64 0-2.98 1.4-2.98 3.15s1.34 3.15 2.98 3.15l17.9.02c1.64 0 2.98-1.4 2.98-3.13v-.02a3.07 3.07 0 0 0-2.99-3.16l-17.87-.01zm-14.73-41.25c-1.65 0-2.98 1.4-2.98 3.15s1.32 3.16 2.98 3.16l47.46.04c1.64 0 2.99-1.4 2.99-3.13v-.02a3.07 3.07 0 0 0-2.98-3.16l-47.47-.04z"/>
+      <use xlink:href="#a" transform="matrix(1.23153 -1.305 .95197 1.0044 75.13 165.68)"/>
+      <use xlink:href="#a" transform="matrix(-1.235 -1.30133 .94926 -1.00724 138.6 216.84)"/>
+    </g>
+    <ellipse cx="130.57" cy="168.12" fill="none" stroke="#2b5384" stroke-width="3.93" rx="81.88" ry="79.88"/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+// export const LOOP_STACKING_ADDR = "juno1n3pmss6grdkw4jvtm3686a4uchqejsnwwh20qajpcqy8g9dvl8tszq37nn"
+// export const WYND_STACKING_ADDR = "juno1csul7lqzh0xvrh8pwdh5ft70nprvn3xpjyeyjmgqxh2wurmjn5esr3lunt"
+// live test
+export const LOOP_STACKING_ADDR = "juno1lps4xpuet2etc2ed0gq0n779ej26660v2x9f2wmh7ftd0eujqvrqg289r8"
+export const WYND_STACKING_ADDR = "juno17jy77g9na2fqvf6qp9f7eytk4yzv60sk6dx7x777q9smflzkxcxqkr9xv6"
+export const LOOP_PROTOCOL_FARMING_CONTRACT = "juno1l6p6qa0l4hdhedgvwhdqcua9sq4un8ugg5rk4nhh4mnrz7a3sl9sfwzg7l"
+export const WYNDEX_FARMING_CONTRACT = "juno16adshp473hd9sruwztdqrtsfckgtd69glqm6sqk0hc4q40c296qsxl3u3s"
+// test
+// export const SYNE_STAKING_CONTRACT = "juno1v8s7d4m0fy24r09leama584lthufe098pzhdlfca8srpztrujvzqs592yn"
+// export const SYNERGISTIC_LOOP_GAUGE_CONTRACT = "juno15q9pphae5t4pg7exyt2wewypt7ggkvzw5vnefawwuc00eml7u4asra7whr"
+// export const SYNERGISTIC_WYND_GAUGE_CONTRACT = "juno1vmjuwm50xgqytkn6chjrn6ah3r6ygp7yk95j59w767ng9kfz9raqgpttje"
+// live test
+export const SYNE_STAKING_CONTRACT = "juno1prk0nlfg0fm3mtyzc9cn5uzkfnrkwk5uw3y2tujd8cpaa7l5u3tsuynyfg"
+export const SYNERGISTIC_LOOP_GAUGE_CONTRACT = "juno10zpsexnndrc37xc0vud66tyqtc08knvuz8ny40zfdy4vavqs6nmq8hagd7"
+export const SYNERGISTIC_WYND_GAUGE_CONTRACT = "juno1sqtxzd2gxnxdw2hqg7hx6gv20v0gmqf8hhzd5fc8yq8ec6wzzrdsgs97ar"
+export const LOOP_GAUGE_CONTRACT = "juno18kvahfjnn2kmjvae3hmmgff8gn65swcf8tk83twlfu5hr2qrjwns7k4x4z"
+export const WYND_DAO_GAUGE_CONTRACT = "juno14va0k6whnaptyr3pl8ajdjdu5p420sywyyuer3mqsvtl4xugh8lqatjcz6"
+
+export const WYND_STAKING_MODULE = "juno1sy9mlw47w44f94zea7g98y5ff4cvtc8rfv75jgwphlet83wlf4ssa050mv"
+export const LOOP_PROTOCOL_STAKING = "juno1rl77a4jpwf5rzmk9d6krrjekukty0m207h0sky97ls7zwq06htdqq6eq7r"
+
+//test
+// export const SYNERGISTIC_WYND_STAKER = "juno1gals0jud8953wzv7pl9xxqk37d88qkwgc7e4nyttalg9wtyv0stq9fuy5z"
+// export const SYNERGISTIC_LOOP_STAKER = "juno13mqgvrp46vxc79j7mde70psvyxtn8t86z3xy9yk8s3d7azx9dc9q22a42q"
+
+export const SYNERGISTIC_WYND_STAKER = "juno14swwpaenwrzlgtad4d0j5377n2y3fncnqy3hcwgm82wddtspvn9shxsqrl"
+export const SYNERGISTIC_LOOP_STAKER = "juno1xa04rgs6w2hu5c839z530f9exgwj46puygdswgjgw3hhw05yac5s9nmra9"

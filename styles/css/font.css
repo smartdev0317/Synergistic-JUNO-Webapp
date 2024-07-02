@@ -1,0 +1,304 @@
+.font-logo {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+}
+
+.font-balance {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+
+    letter-spacing: 0.02em;
+}
+
+.font-wallet, .font-16-24-700-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.font-16-24-500-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.font-wallet-small {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.font-section, .font-24-30-700-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+}
+
+.font-th {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 22px;
+    /* identical to box height, or 183% */
+
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+.font-td-1 {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: 0.06em;
+}
+
+.font-td-1-1 {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.font-td-1-2 {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 22px;
+    letter-spacing: -0.06em;
+}
+
+.font-td-badge {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 16px;
+    /* identical to box height, or 160% */
+
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+}
+
+.font-td-2 {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+}
+
+.font-td-3, .font-15-22-600-ipm {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px;
+    /* identical to box height, or 147% */
+}
+
+.font-td-4 {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+}
+
+.font-td-5, .font-13-18-700-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.font-13-18-500-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 18px;
+}
+
+.font-13-17-700-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 17px;
+}
+
+.font-td-6 {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+    /* identical to box height, or 150% */
+
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+
+.font-td-7, .font-12-18-500-ipm {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.font-12-18-500-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.font-td-8 {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 16px;
+    /* identical to box height, or 160% */
+
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+}
+
+.font-td-9 {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.font-12-18-400-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+}
+
+.font-18-28-500-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.font-18-28-700-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.font-24-28-700-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+}
+
+.font-18-28-600-ipm {
+    font-family: 'IBM Plex Mono';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.font-18-26-700-hk {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 26px;
+}
+
+.font-menu {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 20px 0px;
+}
+
+.font-menu-active {
+    font-family: 'Hanken Grotesk';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    padding: 20px 0px;
+}
+
+.font-menu-active::after {
+    content: "";
+    width: 38px;
+    height: 4px;
+    background-color: white;
+    position: absolute;
+    border-radius: 5px;
+    bottom: 0px;
+    left: calc(50% - 19px);
+}
+
+.tab-active::after {
+    content: "";
+    width: 50px;
+    height: 3px;
+    background-color: #8B91F9;
+    position: absolute;
+    border-radius: 5px;
+    bottom: -14px;
+    left: calc(50%);
+    transform: translateX(-50%);
+}
+
+.font-tab {
+    font-family: 'Hanken Grotesk';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.font-timer {
+    font-family: 'Hanken Grotesk';
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    letter-spacing: 0.07em;
+    text-align: left;
+}

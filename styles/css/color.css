@@ -1,0 +1,116 @@
+.primary-bg-color {
+    background: #16162C;
+}
+.header-bg-color {
+    background: linear-gradient(180deg, #16162C 0%, rgba(22, 22, 44, 0.81) 100%);
+}
+.secondary-bg-color, .secondary-bg-color-without-hover {
+    background: linear-gradient(180deg, #212340 0%, #16172C 100%);
+}
+.statistic-bg-color {
+    background: linear-gradient(180deg, #212340 0%, #16172C 100%), #202240;
+}
+.secondary-bg-color:hover, .second-bg-detail-color {
+    background: #252747;
+    box-shadow: inset 0px 0px 12px rgba(255, 255, 255, 0.05);
+}
+.third-bg-color {
+    background: #202240;
+}
+.search-bg-color {
+    background: #252747;
+}
+.balance-bg-color {
+    background: #252747;
+}
+.btn-bg-color:hover {
+    background: transparent;
+}
+.menu-bg-color {
+    background: #1C88F2;
+    box-shadow: 0px 0px 60px #111122, -16px -12px 60px #111122, 16px 12px 60px #111122;
+    box-sizing: border-box;
+}
+.detail-bg-color-1 {
+    background: #1B1D37;
+}
+.detail-bg-color-2 {
+    background: #2E3156;
+    box-shadow: inset 0px 0px 12px rgba(255, 255, 255, 0.05);
+}
+.detail-bg-color-3 {
+    background: #2E3156;
+    box-shadow: inset 0px 0px 12px rgba(255, 255, 255, 0.05);
+}
+.vesyne-staking-color {
+    background: #2E3156;
+}
+.detail-btn-bg-color-1 {
+    /* background: linear-gradient(180deg, #2E3156 0%, #272949 100%); */
+    background: radial-gradient(100% 100% at 50% 0%, #282A4D 26.46%, #222343 100%);
+}
+.detail-btn-bg-color-2 {
+    background: #8B91F9;
+}
+.detail-btn-bg-color-3 {
+    background: rgba(28, 136, 242, 0.1);
+}
+.detail-btn-bg-color-4 {
+    background: #1C88F2;
+}
+.badge-bg-color {
+    background: rgba(0, 0, 0, 0.2);
+}
+.bg-1 {
+    background: linear-gradient(112.25deg, #252D49 16.48%, #32222A 85.74%);
+}
+
+.primary-color {
+    color: #FFFFFF;
+}
+.secondary-color {
+    color: #7577A2;
+}
+.tertiary-color {
+    color: #9496B7;
+}
+.fourth-color {
+    color: #8B91F9;
+}
+.badge-color-1 {
+    color: #8AE5B4;
+}
+.badge-color-2 {
+    color: #E7C48F;
+}
+.apr-color-1 {
+    color: #8AE5B4;
+}
+.apr-color-2 {
+    color: #F5919E;
+}
+.menu-color {
+    color: rgba(255, 255, 255, 0.7);
+}
+.menu-color-active {
+    color: #FFFFFF;
+}
+.staking-bar-primary {
+    background: rgba(77, 79, 115, 0.4);
+}
+.border-split-color {
+    border-color: #34365C;
+}
+
+.vector-bg-color {
+    background: linear-gradient(0deg, #32355A, #32355A), #FFFFFF;
+    box-shadow: inset 0px 0px 12px rgba(255, 255, 255, 0.05);
+}
+
+.split-gradient {
+    background: linear-gradient(90deg, #2E3156 0%, #272949 100%);
+}
+
+.month-selector-bg-color-active {
+    background: rgba(28, 136, 242, 0.4);
+}
